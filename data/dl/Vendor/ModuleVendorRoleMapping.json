@@ -33,7 +33,7 @@
         "active": true
       },
       {
-        "moduleName": "eKYC",
+        "moduleName": "ekyc",
         "roleName": "eKYC Vendor",
         "roleCode": "EKYC_VENDOR",
         "active": true
