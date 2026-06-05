@@ -33196,6 +33196,43 @@
       "actionid": 2955,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
     }
+
   ]
 }
