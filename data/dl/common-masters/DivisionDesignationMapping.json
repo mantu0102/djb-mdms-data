@@ -3,6 +3,8 @@
   "moduleName": "common-masters",
   "DivisionDesignationMapping": [
     {
+      "code": "D1",
+      "name": "E&M",
       "divisionCode": "1",
       "divisionName": "E&M",
       "designations": [
@@ -277,6 +279,8 @@
       ]
     },
     {
+      "code": "D2",
+      "name": "Maintenance",
       "divisionCode": "2",
       "divisionName": "Maintenance",
       "designations": [
@@ -503,6 +507,8 @@
       ]
     },
     {
+      "code": "D3",
+      "name": "Project Water",
       "divisionCode": "3",
       "divisionName": "Project Water",
       "designations": [
@@ -689,6 +695,8 @@
       ]
     },
     {
+      "code": "D4",
+      "name": "Project Drainage",
       "divisionCode": "4",
       "divisionName": "Project Drainage",
       "designations": [
