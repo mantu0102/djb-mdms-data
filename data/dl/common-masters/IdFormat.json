@@ -462,6 +462,10 @@
             "format": "PG-PT-DJB-[SEQ_EG_PT_PTID]",
             "idname": "pt.propertyid"
         },
+		{
+            "format": "DL-PL-DJB-[SEQ_EG_PT_PLOT]",
+            "idname": "pt.plotid"
+        },
         {
             "format": "PG-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
             "idname": "egov.idgen.bpa.applicationNum"
