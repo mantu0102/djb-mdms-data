@@ -1,0 +1,384 @@
+{
+  "tenantId": "dl",
+  "moduleName": "common-masters",
+  "ZroOfficeList": [
+    {
+      "id": 1,
+      "code": "MNWS_RK_PURAM_ZRO",
+      "name": "MNWS R K Puram",
+      "address": "MNWS Pvt. Ltd. Delhi Jal Board Booster Station, D Block, Saket, New Delhi-110017",
+      "description": "",
+      "rank": 1,
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "NWS_NAJAFGARH_ZRO",
+      "name": "AZRO - 37 (NWS) Najafgarh",
+      "address": "Plot no. 5, Rana Ji Enclave, Near S.B.I Bank, Main Najafgarh Road, New Delhi-43",
+      "description": "",
+      "rank": 2,
+      "active": true
+    },
+    {
+      "id": 3,
+      "code": "GIRI_NAGAR_ZRO",
+      "name": "AZRO - 33 Giri Nagar",
+      "address": "Near Govind Puri Metro Station, Giri Nagar, New Delhi",
+      "description": "",
+      "rank": 3,
+      "active": true
+    },
+    {
+      "id": 4,
+      "code": "MAYUR_VIHAR_ZRO",
+      "name": "AZRO - 1 Mayur Vihar",
+      "address": "OHT, Mayur Vihar Ph-I, New Delhi",
+      "description": "",
+      "rank": 4,
+      "active": true
+    },
+    {
+      "id": 5,
+      "code": "SHIV_PURI_ZRO",
+      "name": "AZRO - 5 Shiv Puri",
+      "address": "Shiv Puri, Chander Nagar, New Delhi",
+      "description": "",
+      "rank": 5,
+      "active": true
+    },
+    {
+      "id": 6,
+      "code": "VASANT_KUNJ_ZRO",
+      "name": "AZRO - 27 Vasant Kunj",
+      "address": "Vasant Kunj, Near B-1 Block, New Delhi",
+      "description": "",
+      "rank": 6,
+      "active": true
+    },
+    {
+      "id": 7,
+      "code": "GTB_ENCLAVE_ZRO",
+      "name": "AZRO - 8 GTB Enclave",
+      "address": "2142, Janta Flats, Nand Nagari, New Delhi",
+      "description": "",
+      "rank": 7,
+      "active": true
+    },
+    {
+      "id": 8,
+      "code": "RK_PURAM_ZRO",
+      "name": "ZRO - 28 R.K. Puram",
+      "address": "Sector - 7, R.K. Puram, New Delhi",
+      "description": "",
+      "rank": 8,
+      "active": true
+    },
+    {
+      "id": 9,
+      "code": "SUBHASH_NAGAR_ZRO",
+      "name": "AZRO - 23 Subhash Nagar",
+      "address": "Subhash Nagar, Block - 9, New Delhi",
+      "description": "",
+      "rank": 9,
+      "active": true
+    },
+    {
+      "id": 10,
+      "code": "PASCHIM_VIHAR_ZRO",
+      "name": "ZRO - 22 Paschim Vihar",
+      "address": "Outer Ring Road, Paschim Vihar, New Delhi",
+      "description": "",
+      "rank": 10,
+      "active": true
+    },
+    {
+      "id": 11,
+      "code": "MNWS_GREATER_KAILASH_ZRO",
+      "name": "MNWS Greater Kailash",
+      "address": "MNWS Pvt. Ltd. Delhi Jal Board Booster Station, D Block, Saket, New Delhi-110017",
+      "description": "",
+      "rank": 11,
+      "active": true
+    },
+    {
+      "id": 12,
+      "code": "MANDAWALI_ZRO",
+      "name": "AZRO - 2 Mandawali",
+      "address": "Narwana Road, Mandawali, New Delhi",
+      "description": "",
+      "rank": 12,
+      "active": true
+    },
+    {
+      "id": 13,
+      "code": "SAKET_ZRO",
+      "name": "AZRO - 34 Saket",
+      "address": "Near Modi Hospital, Saket, New Delhi",
+      "description": "",
+      "rank": 13,
+      "active": true
+    },
+    {
+      "id": 14,
+      "code": "SHAHDARA_ZRO",
+      "name": "ZRO - 4 Shahdara",
+      "address": "OHT, G.T. Road, Shahdara, New Delhi",
+      "description": "",
+      "rank": 14,
+      "active": true
+    },
+    {
+      "id": 15,
+      "code": "PRATAP_NAGAR_ZRO",
+      "name": "ZRO - 14 Pratap Nagar & Turkman Gate",
+      "address": "Near Metro Station, Pratap Nagar, New Delhi",
+      "description": "",
+      "rank": 15,
+      "active": true
+    },
+    {
+      "id": 16,
+      "code": "SEELAMPUR_ZRO",
+      "name": "AZRO - 6 New Seelampur",
+      "address": "Near Seelampur Metro Station, New Seelampur",
+      "description": "",
+      "rank": 16,
+      "active": true
+    },
+    {
+      "id": 17,
+      "code": "YOJNA_VIHAR_ZRO",
+      "name": "AZRO - Yojna Vihar",
+      "address": "Near Joseph School, Yojna Vihar, New Delhi",
+      "description": "",
+      "rank": 17,
+      "active": true
+    },
+    {
+      "id": 18,
+      "code": "BURARI_ZRO",
+      "name": "ZRO - 12 Burari",
+      "address": "Water Emergency, Opp TPT Authority, Burari, New Delhi",
+      "description": "",
+      "rank": 18,
+      "active": true
+    },
+    {
+      "id": 19,
+      "code": "KIRARI_ZRO",
+      "name": "AZRO - 20 Kirari",
+      "address": "Mubarkpur, Kirari, New Delhi",
+      "description": "",
+      "rank": 19,
+      "active": true
+    },
+    {
+      "id": 20,
+      "code": "JANAKPURI_ZRO",
+      "name": "AZRO - 24 Janakpuri",
+      "address": "OHT, C-2/B, Janakpuri",
+      "description": "",
+      "rank": 20,
+      "active": true
+    },
+    {
+      "id": 21,
+      "code": "NWS_MOHAN_GARDEN_ZRO",
+      "name": "AZRO - 36 (NWS) Mohan Garden",
+      "address": "Q-Block, Mohan Garden, Near Jain Road, New Delhi",
+      "description": "",
+      "rank": 21,
+      "active": true
+    },
+    {
+      "id": 22,
+      "code": "NARELA_ZRO",
+      "name": "AZRO - 9 Narela",
+      "address": "Safiyabad Road, OHT, Narela, New Delhi",
+      "description": "",
+      "rank": 22,
+      "active": true
+    },
+    {
+      "id": 23,
+      "code": "SULTAN_PURI_ZRO",
+      "name": "AZRO - 21 Sultan Puri",
+      "address": "OHT, Jalebi Chowk, Sultan Puri, New Delhi",
+      "description": "",
+      "rank": 23,
+      "active": true
+    },
+    {
+      "id": 24,
+      "code": "KAKROLA_MORE_ZRO",
+      "name": "AZRO - 26 Kakrola More",
+      "address": "Kakrola More, Near House Tax Office, Delhi",
+      "description": "",
+      "rank": 24,
+      "active": true
+    },
+    {
+      "id": 25,
+      "code": "KAROL_BAGH_ZRO",
+      "name": "ZRO - 15 Karol Bagh",
+      "address": "Tibiya College, Karol Bagh, New Delhi",
+      "description": "",
+      "rank": 25,
+      "active": true
+    },
+    {
+      "id": 26,
+      "code": "TURKMAN_GATE_ZRO",
+      "name": "ZRO - 14 Pratap Nagar & Turkman Gate",
+      "address": "Near Metro Station, Pratap Nagar, New Delhi",
+      "description": "",
+      "rank": 26,
+      "active": true
+    },
+    {
+      "id": 27,
+      "code": "SANGAM_VIHAR_ZRO",
+      "name": "AZRO - 32 Sangam Vihar",
+      "address": "Pkt. J, Sarita Vihar, New Delhi",
+      "description": "",
+      "rank": 27,
+      "active": true
+    },
+    {
+      "id": 28,
+      "code": "KEWAL_PARK_ZRO",
+      "name": "AZRO - 11 Kewal Park",
+      "address": "Near Water Emergency, Kewal Park, New Delhi",
+      "description": "",
+      "rank": 28,
+      "active": true
+    },
+    {
+      "id": 29,
+      "code": "ROHINI_ZRO",
+      "name": "ZRO - 10 Rithala",
+      "address": "Sector - 6, Vishram Chowk, Rohini, New Delhi",
+      "description": "",
+      "rank": 29,
+      "active": true
+    },
+    {
+      "id": 30,
+      "code": "KANHAIYA_NAGAR_ZRO",
+      "name": "AZRO - 18 Kanhiya Nagar",
+      "address": "Kanhiya Nagar, Near Metro Station, New Delhi",
+      "description": "",
+      "rank": 30,
+      "active": true
+    },
+    {
+      "id": 31,
+      "code": "LAJPAT_NAGAR_ZRO",
+      "name": "ZRO - 29 Lajpat Nagar",
+      "address": "Jal Sadan, Lajpat Nagar, New Delhi",
+      "description": "",
+      "rank": 31,
+      "active": true
+    },
+    {
+      "id": 32,
+      "code": "PREET_VIHAR_ZRO",
+      "name": "AZRO - 3 Preet Vihar",
+      "address": "OHT, E-Block, Preet Vihar, New Delhi",
+      "description": "",
+      "rank": 32,
+      "active": true
+    },
+    {
+      "id": 33,
+      "code": "PUNJABI_BAGH_ZRO",
+      "name": "ZRO - 19 Punjabi Bagh",
+      "address": "Club Road, Punjabi Bagh, New Delhi",
+      "description": "",
+      "rank": 33,
+      "active": true
+    },
+    {
+      "id": 34,
+      "code": "OKHLA_ZRO",
+      "name": "AZRO - 31 Okhla",
+      "address": "Pkt. J, Sarita Vihar, New Delhi",
+      "description": "",
+      "rank": 34,
+      "active": true
+    },
+    {
+      "id": 35,
+      "code": "NWS_BHERA_ENCLAVE_ZRO",
+      "name": "ZRO - 35 (NWS) Bhera Enclave",
+      "address": "H.No. 8, Bhera Enclave, 1st Floor, Paschim Vihar, New Delhi-87",
+      "description": "",
+      "rank": 35,
+      "active": true
+    },
+    {
+      "id": 36,
+      "code": "MNWS_MEHRAULI_ZRO",
+      "name": "MNWS Mehrauli",
+      "address": "MNWS Pvt. Ltd. Delhi Jal Board Booster Station, D Block, Saket, New Delhi-110017",
+      "description": "",
+      "rank": 36,
+      "active": true
+    },
+    {
+      "id": 37,
+      "code": "RAJENDRA_NAGAR_ZRO",
+      "name": "AZRO - 16 Rajendar Nagar",
+      "address": "OHT, Rajendar Nagar, New Delhi",
+      "description": "",
+      "rank": 37,
+      "active": true
+    },
+    {
+      "id": 38,
+      "code": "MUKHERJEE_NAGAR_ZRO",
+      "name": "ZRO - 13 Mukherjee Nagar",
+      "address": "Mukherji Nagar, OHT, New Delhi",
+      "description": "",
+      "rank": 38,
+      "active": true
+    },
+    {
+      "id": 39,
+      "code": "YAMUNA_VIHAR_ZRO",
+      "name": "AZRO - 7 Yamuna Vihar",
+      "address": "OHT, Yamuna Vihar, Bhajan Pura, New Delhi",
+      "description": "",
+      "rank": 39,
+      "active": true
+    },
+    {
+      "id": 40,
+      "code": "ASHOK_VIHAR_ZRO",
+      "name": "AZRO - 17 Ashok Vihar",
+      "address": "OHT, Ashok Vihar, New Delhi",
+      "description": "",
+      "rank": 40,
+      "active": true
+    },
+    {
+      "id": 41,
+      "code": "GREATER_KAILASH_ZRO",
+      "name": "AZRO - 30 G.K.-I",
+      "address": "A-Block, GK-I, Opp. Sadiq Nagar, New Delhi",
+      "description": "",
+      "rank": 41,
+      "active": true
+    },
+    {
+      "id": 42,
+      "code": "DWARKA_ZRO",
+      "name": "AZRO - 25 Dwarka",
+      "address": "DDA office complex, Central Nursery, Sector-5, Dwarka, New Delhi",
+      "description": "",
+      "rank": 42,
+      "active": true
+    }
+  ]
+}
