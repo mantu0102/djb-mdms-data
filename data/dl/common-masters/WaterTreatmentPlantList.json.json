@@ -1,0 +1,96 @@
+{
+  "tenantId": "dl",
+  "moduleName": "common-masters",
+  "WaterTreatmentPlantList": [
+    {
+      "id": 1,
+      "code": "SONIA_VIHAR_WTP",
+      "name": "Sonia Vihar WTP (140 MGD)",
+      "description": "140 MGD Sonia Vihar WTP, Sonia Vihar, Delhi-110094",
+      "capacityMgd": 140,
+      "rank": 1,
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "BHAGIRATHI_WTP",
+      "name": "Bhagirathi WTP (110 MGD)",
+      "description": "Bhagirathi WTP, Gokalpuri, Delhi-110094",
+      "capacityMgd": 110,
+      "rank": 2,
+      "active": true
+    },
+    {
+      "id": 3,
+      "code": "CHANDRAWAL_WTP",
+      "name": "Chandrawal WTP (94 MGD)",
+      "description": "Chandrawal WTP, Civil Lines, Delhi-110054",
+      "capacityMgd": 94,
+      "rank": 3,
+      "active": true
+    },
+    {
+      "id": 4,
+      "code": "WAZIRABAD_WTP",
+      "name": "Wazirabad WTP (131 MGD)",
+      "description": "Wazirabad WTP, Main Road, Wazirabad, New Delhi-110054",
+      "capacityMgd": 131,
+      "rank": 4,
+      "active": true
+    },
+    {
+      "id": 5,
+      "code": "OKHLA_WTP",
+      "name": "Okhla WTP (20 MGD)",
+      "description": "20 MGD Okhla WTP, Behind Holy Family Hospital, Okhla, Delhi-110025",
+      "capacityMgd": 20,
+      "rank": 5,
+      "active": true
+    },
+    {
+      "id": 6,
+      "code": "HAIDERPUR_WTP",
+      "name": "Haiderpur WTP (216 MGD)",
+      "description": "Haiderpur WTP, Outer Ring Road, Rohini, Delhi-110085",
+      "capacityMgd": 216,
+      "rank": 6,
+      "active": true
+    },
+    {
+      "id": 7,
+      "code": "NANGLOI_WTP",
+      "name": "Nangloi WTP (40 MGD)",
+      "description": "40 MGD Nangloi WTP, Kamruddin Nagar, Delhi-110041",
+      "capacityMgd": 40,
+      "rank": 7,
+      "active": true
+    },
+    {
+      "id": 8,
+      "code": "BAWANA_WTP",
+      "name": "Bawana WTP (20 MGD)",
+      "description": "20 MGD Bawana WTP, Near Ghoga Dairy, Delhi-110039",
+      "capacityMgd": 20,
+      "rank": 8,
+      "active": true
+    },
+    {
+      "id": 9,
+      "code": "DWARKA_WTP",
+      "name": "Dwarka WTP (50 MGD)",
+      "description": "50 MGD Dwarka WTP, Najafgarh Road, Dwarka, Delhi-110043",
+      "capacityMgd": 50,
+      "rank": 9,
+      "active": true
+    },
+    {
+      "id": 10,
+      "code": "COMMON_WEALTH_VILLAGE_WTP",
+      "name": "Common Wealth Village WTP (1 MGD)",
+      "description": "CWG Village Complex, Opposite Akshardham, Delhi-110092",
+      "capacityMgd": 1,
+      "rank": 10,
+      "active": true
+    }
+  ]
+}
