@@ -51,52 +51,64 @@
           "active": "true"
         },
         {
-          "code": "NGO",
+          "code": "HOTEL_/_RESTAURANT",
           "active": "true"
         },
         {
-          "code": "TRUST",
+          "code": "BANQUET_HALL",
           "active": "true"
         },
         {
-          "code": "BEAR_HOUSE",
-          "active": "true"
+          "code": "SHOPPING_COMPLEX_/_MALL",
+          "active":"true"
         },
         {
-          "code": "BANQUET_HOUSE",
-          "active": "true"
+          "code":"WAREHOUSE_/_GODOWN",
+          "active":"true"
         },
         {
-          "code": "SCHOOL",
-          "active": "true"
+          "code":"HOSPITAL_/_NURSING_HOME",
+          "active":"true"
         },
         {
-          "code": "MALL",
-          "active": "true"
+          "code":"SCHOOL_/_COLLEGE_/_UNIVERSITY",
+          "active":"true"
         },
         {
-          "code": "INDIVIDUAL_HOUSE",
-          "active": "true"
+          "code":"GROUP_HOUSING_SOCIETY",
+          "active":"true"
         },
         {
-          "code": "GUEST_HOUSE",
-          "active": "true"
+          "code":"BUNGALOW",
+          "active":"true"
         },
         {
-          "code": "HOTEL_&_RESTAURANT",
-          "active": "true"
+          "code":"DHARAMSHALA_/_GUEST_HOUSE",
+          "active":"true"
         },
         {
-          "code": "GROUP_HOUSING_SOCIETY",
-          "active": "true"
+          "code":"CINEPLEX",
+          "active":"true"
         },
         {
-          "code": "FACTORY",
-          "active": "true"
+          "code":"NGO_/_TRUST",
+          "active":"true"
         },
         {
-          "code": "DHARAMSHALA",
-          "active": "true"
+          "code":"GUEST_HOUSE",
+          "active":"true"
+        },
+        {
+          "code":"BSES",
+          "active":"true"
+        },
+        {
+          "code":"BSES_RAJDHANI",
+          "active":"true"
+        },
+        {
+          "code":"TATA_POWER_DDL",
+          "active":"true"
         }
       ]
     }
