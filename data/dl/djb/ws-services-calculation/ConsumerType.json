@@ -57,6 +57,46 @@
         {
           "code": "TRUST",
           "active": "true"
+        },
+        {
+          "code": "BEAR_HOUSE",
+          "active": "true"
+        },
+        {
+          "code": "BANQUET_HOUSE",
+          "active": "true"
+        },
+        {
+          "code": "SCHOOL",
+          "active": "true"
+        },
+        {
+          "code": "MALL",
+          "active": "true"
+        },
+        {
+          "code": "INDIVIDUAL_HOUSE",
+          "active": "true"
+        },
+        {
+          "code": "GUEST_HOUSE",
+          "active": "true"
+        },
+        {
+          "code": "HOTEL_&_RESTAURANT",
+          "active": "true"
+        },
+        {
+          "code": "GROUP_HOUSING_SOCIETY",
+          "active": "true"
+        },
+        {
+          "code": "FACTORY",
+          "active": "true"
+        },
+        {
+          "code": "DHARAMSHALA",
+          "active": "true"
         }
       ]
     }
