@@ -33853,6 +33853,30 @@
       "actionid": 3018,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3019,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3020,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3021,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3022,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }

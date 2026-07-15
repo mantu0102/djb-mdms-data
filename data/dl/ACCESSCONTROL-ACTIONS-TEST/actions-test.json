@@ -20733,7 +20733,58 @@
       "code": "null",
       "tenantId": "dl",
       "path": ""
+    },
+    {
+      "id": 3019,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/common-masters.ZROLocation",
+      "displayName": "Create common-masters.ZROLocation",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "code": "null",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3020,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/ekyc.ModuleSurveyorRoleMapping",
+      "displayName": "Create ekyc.ModuleSurveyorRoleMapping",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "code": "null",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3021,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/ekyc.ModuleSupervisorRoleMapping",
+      "displayName": "Create ekyc.ModuleSupervisorRoleMapping",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "code": "null",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3022,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/common-masters.ModuleVendorRoleMapping",
+      "displayName": "Create common-masters.ModuleVendorRoleMapping",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "code": "null",
+      "tenantId": "dl",
+      "path": ""
     }
-   
   ]
 }
