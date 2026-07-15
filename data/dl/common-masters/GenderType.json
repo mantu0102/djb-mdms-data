@@ -1,22 +1,30 @@
 {
-    "tenantId": "dl",
-    "moduleName": "common-masters",
-    "GenderType":
-    [
-      {
-        "code": "MALE",
-        "active": true
-      },
-      {
-        "code": "FEMALE",
-        "active": true
-      },{
-        "code": "TRANSGENDER",
-        "active": true
-      },
-      {
-        "code": "OTHERS",
-        "active": false
-      }
-    ]
-  }
+  "tenantId": "dl",
+  "moduleName": "common-masters",
+  "GenderType": [
+    {
+      "code": "MALE",
+      "active": true
+    },
+    {
+      "code": "FEMALE",
+      "active": true
+    },
+    {
+      "code": "THIRD GENDER",
+      "active": true
+    },
+    {
+      "code": "NOT DISCLOSED",
+      "active": true
+    },
+    {
+      "code": "TRANSGENDER",
+      "active": false
+    },
+    {
+      "code": "OTHERS",
+      "active": false
+    }
+  ]
+}
